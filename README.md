@@ -1,4 +1,4 @@
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" text-align="center" alt="">
 <h1 align="center">Hi 👋, I'm satendra kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
